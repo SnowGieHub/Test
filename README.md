@@ -7,3 +7,5 @@ go run config.go
 #关闭文件
 close config.go
 
+
+Good Bye!!!
